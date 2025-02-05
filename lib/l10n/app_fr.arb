@@ -1,0 +1,10 @@
+{
+    "helloWorld":"Bonjour le monde",
+    "hello":"Bonjour",
+    "search":"Rechercher",
+    "welcome":"Bienvenue",
+    "selectLanguageOfYourChoice":"Sélectionnez la langue de votre choix",
+    "delete":"supprimer",
+    "yes":"Oui",
+    "no":"Non"
+}
